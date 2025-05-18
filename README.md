@@ -48,13 +48,13 @@ npm start
 |-----------------|------------------|
 | ![Product List](./assets/img1.png) | ![After Deletion](./assets/img2.png) |
 
-### ➕ Add Product | ✏️ Update Product
+### ➕ Update Product | ✏️ Update Product
 
-| Add New Product | Update Product |
+| Update existing product | Update Product |
 |------------------|-----------------|
-| ![Add Product](./assets/img3.png) | ![Update Product](./assets/img4.png) |
+| ![Update](./assets/img5.png) | ![Update Product](./assets/img4.png) |
 
-### 🔍 Search Feature
+### ➕ Add Product
 
-![Search UI](./assets/img5.png)
+![Add product](./assets/img3.png)
 
