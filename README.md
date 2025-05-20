@@ -17,7 +17,7 @@ This is a full-stack Inventory Management System web application that I designed
 
 ## 🛠️ Tech Stack
 
-- **Frontend**: React.js, Axios, Bootstrap, CSS
+- **Frontend**: React.js, CSS
 - **Backend**: Node.js, Express.js
 - **Database**: MongoDB + Mongoose
 - **Tools Used**: Postman, MongoDB Compass, dotenv
